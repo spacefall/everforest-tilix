@@ -1,0 +1,25 @@
+{
+    "name": "Everforest Dark Medium",
+    "comment": "Everforest is a green based color scheme; it's designed to be warm and soft in order to protect developers' eyes",
+    "use-theme-colors": false,
+    "foreground-color": "#d3c6aa",
+    "background-color": "#2d353b",
+    "palette": [
+	"#475258",
+	"#e67e80",
+	"#a7c080",
+	"#dbbc7f",
+	"#7fbbb3",
+	"#d699b6",
+	"#83c092",
+	"#d3c6aa",
+	"#475258",
+	"#e67e80",
+	"#a7c080",
+	"#dbbc7f",
+	"#7fbbb3",
+	"#d699b6",
+	"#83c092",
+	"#d3c6aa"
+    ]
+}
